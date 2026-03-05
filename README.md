@@ -1,3 +1,6 @@
+## Project Title
+## Resume Builder and Job Analysis
+
 ## Overview
 The Resume Analyzer & Job Description Matcher is a web-based application that evaluates how well a candidate’s resume matches a given job description.
 The system extracts skills and keywords from both the resume and job description, calculates a match score, and provides suggestions to improve ATS compatibility.
@@ -20,15 +23,6 @@ The system extracts skills and keywords from both the resume and job description
 
 ## Use Case
 Helps students and job seekers improve resumes and increase shortlisting chances.
-
-
-## Features
-- Upload resume (PDF or DOCX)
-- Paste job description text
-- Extract skills and keywords
-- Calculate match score
-- Show missing skills
-- Simple and responsive UI
 
 
 ## How the Application Works
